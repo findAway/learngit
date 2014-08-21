@@ -1,2 +1,9 @@
-#genarate SSH Key
-ssh-keygen -t rsa -C "youremail@example.com"
+1. "genarate SSH Key"
+$ ssh-keygen -t rsa -C "youremail@example.com"
+
+2. "push a existing repository to github"
+$ git remote add origin https://github.com/findAway/learngit.git
+$ git push -u origin master
+# origin: name of remote repository https://github.com/findAway/learngit.git, it can be named as you wish.
+# -u: first time push with this option.
+# master: the name of a branch.
