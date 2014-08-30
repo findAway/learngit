@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 2014.8.23 over.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
